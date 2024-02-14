@@ -2,10 +2,10 @@
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="450"/>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/deepak-wayzode-b06776188/">
+  <a href="https://www.linkedin.com/in/deepak-wayzode-b06776188/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:dwayzode@gmail.com">
+  <a href="mailto:dwayzode@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
   </a>
   
@@ -28,7 +28,7 @@
 • 🔭 I’m currently learning <b>Full-Stack Web Development At Masai School </b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 💬 Ask me about <b>MERN</b>.<br/>
-• 📫 Reach me out <a href="https://www.linkedin.com/in/deepak-wayzode-b06776188/"><b>Deepak Wayzode</b></a><br/>
+• 📫 Reach me out <a href="https://www.linkedin.com/in/deepak-wayzode-b06776188/" target="_blank"><b>Deepak Wayzode</b></a><br/>
 •⚡ Fun Fact <b>I love go for Travelling</b>.<br/>
 
 </span>
