@@ -37,7 +37,7 @@
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepak9657568826&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak Wayzode" /> </p>
+
 
 ## 🌐 Let's Connect :
 
@@ -56,18 +56,6 @@
 <br>
 <br>
 
-# 📊 GitHub Stats :
-
-<p >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepak9657568826&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Deepak" height="139"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak9657568826&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="Deepak" height="139" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak9657568826&theme=dark" alt="Deepak" /></p>
-<br>
-<br>
-<br>
-
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
@@ -82,9 +70,7 @@
 
 
 # 💻 Tech Stack :
-
 <h2>Front-end</h2>
-
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -102,7 +88,6 @@
 <h2>Tech Tools</h2>
 <p>
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")
 
@@ -110,4 +95,16 @@
 
 </p>
 
+# 📊 GitHub Stats :
+
+<div align ="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepak9657568826&show_icons=true&locale=en&layout=compact" alt="Deepak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepak9657568826&show_icons=true&locale=en" alt="Deepak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak9657568826&" alt="Deepak" /></p>
+</div>
+<div align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=Deepak9657568826&column=-1&theme=onedark&rank=-?&margin-w=0" width="40%"/>
+ </div>
 </div>
