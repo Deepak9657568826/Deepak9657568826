@@ -51,6 +51,10 @@
         <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="deepak" />
 </a>
 
+<a href="https://drive.google.com/file/d/13bZLRoK4Q0jKK8EGx9uauauYqNzLsqsf/view" target="_blank"> 
+    <img src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=resume&logoColor=white" title="Resume"  alt="resume"/>
+</a>
+
 </a>
 <br>
 <br>
