@@ -47,11 +47,11 @@
 <a href="mailto:dwayzode@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https://deepakwayzodeportfolio-740759.netlify.app/" target="_blank">
+<a href="https://deepak9657568826-github-io.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="deepak" />
 </a>
 
-<a href="https://drive.google.com/file/d/13bZLRoK4Q0jKK8EGx9uauauYqNzLsqsf/view?usp=sharing" target="_blank"> 
+<a href="https://drive.google.com/file/d/1OTujPqXg1tTgIm5EO6vaL83zRgXqdjTS/view?usp=sharing" target="_blank"> 
     <img src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=resume&logoColor=white" title="Resume"  alt="resume"/>
 </a>
 
