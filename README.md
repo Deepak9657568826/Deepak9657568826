@@ -17,7 +17,7 @@
 <div>
   <h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Deepak Wayzode</h1>
 </div>
-<h3 align="justify">I am a detailed-oriented and responsible Full Stack Web Developer specializing in MERN ( HTML,CSS, JavaScript,MongoDB, Express.js, React, Node.js) stack with a get-it-done, on-time, and high-quality product spirit.</h3>
+<h3 align="justify">Detail-oriented and responsible Full Stack Web Developer specializing in the MERN stack (HTML, CSS, JavaScript, MongoDB, Express.js, React, Node.js) with a get-it-done, on-time, and high-quality product spirit.</h3>
 <br>
 
 ## Fun Fact 🎈:
