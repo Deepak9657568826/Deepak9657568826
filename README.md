@@ -47,7 +47,7 @@
 <a href="mailto:dwayzode@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="" target="_blank">
+<a href="https://deepakwayzodeportfolio.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="deepak" />
 </a>
 
